@@ -1,0 +1,264 @@
+2025-12-04 16:41:36,818 | INFO | Train E1: loss=5.3989  acc_s=0.8201  acc_f=0.0324
+2025-12-04 16:41:44,424 | INFO | Test  E1: acc_s=0.8200  acc_f=0.0727
+2025-12-04 16:41:44,721 | INFO | *** Best model updated: 0.0727 ***
+2025-12-04 16:44:55,213 | INFO | Train E2: loss=5.1569  acc_s=0.8199  acc_f=0.0558
+2025-12-04 16:45:02,539 | INFO | Test  E2: acc_s=0.8200  acc_f=0.0988
+2025-12-04 16:45:02,846 | INFO | *** Best model updated: 0.0988 ***
+2025-12-04 16:48:13,058 | INFO | Train E3: loss=5.0107  acc_s=0.8201  acc_f=0.0772
+2025-12-04 16:48:20,331 | INFO | Test  E3: acc_s=0.8187  acc_f=0.1268
+2025-12-04 16:48:20,640 | INFO | *** Best model updated: 0.1268 ***
+2025-12-04 16:51:30,963 | INFO | Train E4: loss=4.9038  acc_s=0.8199  acc_f=0.0947
+2025-12-04 16:51:38,499 | INFO | Test  E4: acc_s=0.8216  acc_f=0.1442
+2025-12-04 16:51:38,805 | INFO | *** Best model updated: 0.1442 ***
+2025-12-04 16:54:49,196 | INFO | Train E5: loss=4.7579  acc_s=0.8202  acc_f=0.1175
+2025-12-04 16:54:56,468 | INFO | Test  E5: acc_s=0.8253  acc_f=0.1983
+2025-12-04 16:54:56,793 | INFO | *** Best model updated: 0.1983 ***
+2025-12-04 16:58:07,140 | INFO | Train E6: loss=4.6008  acc_s=0.8203  acc_f=0.1457
+2025-12-04 16:58:14,577 | INFO | Test  E6: acc_s=0.8234  acc_f=0.2546
+2025-12-04 16:58:14,884 | INFO | *** Best model updated: 0.2546 ***
+2025-12-04 17:01:25,284 | INFO | Train E7: loss=4.4890  acc_s=0.8213  acc_f=0.1639
+2025-12-04 17:01:33,360 | INFO | Test  E7: acc_s=0.8219  acc_f=0.2529
+2025-12-04 17:04:43,997 | INFO | Train E8: loss=4.3437  acc_s=0.8219  acc_f=0.1918
+2025-12-04 17:04:51,684 | INFO | Test  E8: acc_s=0.8262  acc_f=0.2981
+2025-12-04 17:04:51,997 | INFO | *** Best model updated: 0.2981 ***
+2025-12-04 17:08:02,519 | INFO | Train E9: loss=4.2645  acc_s=0.8236  acc_f=0.2063
+2025-12-04 17:08:10,135 | INFO | Test  E9: acc_s=0.8312  acc_f=0.3496
+2025-12-04 17:08:10,437 | INFO | *** Best model updated: 0.3496 ***
+2025-12-04 17:11:20,775 | INFO | Train E10: loss=4.0810  acc_s=0.8258  acc_f=0.2405
+2025-12-04 17:11:28,337 | INFO | Test  E10: acc_s=0.8394  acc_f=0.3865
+2025-12-04 17:11:28,649 | INFO | *** Best model updated: 0.3865 ***
+2025-12-04 17:14:39,151 | INFO | Train E11: loss=4.0978  acc_s=0.8261  acc_f=0.2383
+2025-12-04 17:14:46,639 | INFO | Test  E11: acc_s=0.8358  acc_f=0.3889
+2025-12-04 17:14:46,938 | INFO | *** Best model updated: 0.3889 ***
+2025-12-04 17:17:57,408 | INFO | Train E12: loss=3.9842  acc_s=0.8273  acc_f=0.2661
+2025-12-04 17:18:04,925 | INFO | Test  E12: acc_s=0.8451  acc_f=0.4460
+2025-12-04 17:18:05,263 | INFO | *** Best model updated: 0.4460 ***
+2025-12-04 17:21:15,701 | INFO | Train E13: loss=3.8711  acc_s=0.8304  acc_f=0.2903
+2025-12-04 17:21:24,261 | INFO | Test  E13: acc_s=0.8460  acc_f=0.4366
+2025-12-04 17:24:35,977 | INFO | Train E14: loss=3.8488  acc_s=0.8320  acc_f=0.2974
+2025-12-04 17:24:44,054 | INFO | Test  E14: acc_s=0.8495  acc_f=0.4423
+2025-12-04 17:27:54,396 | INFO | Train E15: loss=3.8318  acc_s=0.8329  acc_f=0.2998
+2025-12-04 17:28:01,982 | INFO | Test  E15: acc_s=0.8531  acc_f=0.4682
+2025-12-04 17:28:02,294 | INFO | *** Best model updated: 0.4682 ***
+2025-12-04 17:31:12,582 | INFO | Train E16: loss=3.7558  acc_s=0.8343  acc_f=0.3169
+2025-12-04 17:31:19,882 | INFO | Test  E16: acc_s=0.8545  acc_f=0.4713
+2025-12-04 17:31:20,208 | INFO | *** Best model updated: 0.4713 ***
+2025-12-04 17:34:30,518 | INFO | Train E17: loss=3.7117  acc_s=0.8363  acc_f=0.3260
+2025-12-04 17:34:37,868 | INFO | Test  E17: acc_s=0.8590  acc_f=0.4954
+2025-12-04 17:34:38,181 | INFO | *** Best model updated: 0.4954 ***
+2025-12-04 17:37:48,398 | INFO | Train E18: loss=3.6713  acc_s=0.8384  acc_f=0.3372
+2025-12-04 17:37:55,688 | INFO | Test  E18: acc_s=0.8536  acc_f=0.4917
+2025-12-04 17:41:06,085 | INFO | Train E19: loss=3.5974  acc_s=0.8403  acc_f=0.3558
+2025-12-04 17:41:13,967 | INFO | Test  E19: acc_s=0.8579  acc_f=0.5156
+2025-12-04 17:41:14,270 | INFO | *** Best model updated: 0.5156 ***
+2025-12-04 17:44:24,499 | INFO | Train E20: loss=3.6055  acc_s=0.8403  acc_f=0.3538
+2025-12-04 17:44:31,984 | INFO | Test  E20: acc_s=0.8707  acc_f=0.5513
+2025-12-04 17:44:32,300 | INFO | *** Best model updated: 0.5513 ***
+2025-12-04 17:47:42,416 | INFO | Train E21: loss=3.4951  acc_s=0.8443  acc_f=0.3785
+2025-12-04 17:47:49,987 | INFO | Test  E21: acc_s=0.8584  acc_f=0.5104
+2025-12-04 17:51:00,412 | INFO | Train E22: loss=3.5339  acc_s=0.8432  acc_f=0.3711
+2025-12-04 17:51:08,021 | INFO | Test  E22: acc_s=0.8754  acc_f=0.5564
+2025-12-04 17:51:08,337 | INFO | *** Best model updated: 0.5564 ***
+2025-12-04 17:54:18,427 | INFO | Train E23: loss=3.5186  acc_s=0.8422  acc_f=0.3748
+2025-12-04 17:54:25,712 | INFO | Test  E23: acc_s=0.8770  acc_f=0.5797
+2025-12-04 17:54:26,020 | INFO | *** Best model updated: 0.5797 ***
+2025-12-04 17:57:36,050 | INFO | Train E24: loss=3.4651  acc_s=0.8461  acc_f=0.3882
+2025-12-04 17:57:43,341 | INFO | Test  E24: acc_s=0.8602  acc_f=0.5811
+2025-12-04 17:57:43,642 | INFO | *** Best model updated: 0.5811 ***
+2025-12-04 18:00:53,939 | INFO | Train E25: loss=3.3790  acc_s=0.8490  acc_f=0.4061
+2025-12-04 18:01:01,212 | INFO | Test  E25: acc_s=0.8839  acc_f=0.5681
+2025-12-04 18:04:11,589 | INFO | Train E26: loss=3.3588  acc_s=0.8492  acc_f=0.4092
+2025-12-04 18:04:19,077 | INFO | Test  E26: acc_s=0.8841  acc_f=0.5834
+2025-12-04 18:04:19,393 | INFO | *** Best model updated: 0.5834 ***
+2025-12-04 18:07:29,745 | INFO | Train E27: loss=3.3347  acc_s=0.8495  acc_f=0.4186
+2025-12-04 18:07:37,100 | INFO | Test  E27: acc_s=0.8783  acc_f=0.5946
+2025-12-04 18:07:37,410 | INFO | *** Best model updated: 0.5946 ***
+2025-12-04 18:10:47,733 | INFO | Train E28: loss=3.3719  acc_s=0.8497  acc_f=0.4091
+2025-12-04 18:10:55,238 | INFO | Test  E28: acc_s=0.8820  acc_f=0.5915
+2025-12-04 18:14:05,804 | INFO | Train E29: loss=3.3266  acc_s=0.8495  acc_f=0.4220
+2025-12-04 18:14:13,288 | INFO | Test  E29: acc_s=0.8835  acc_f=0.5993
+2025-12-04 18:14:13,597 | INFO | *** Best model updated: 0.5993 ***
+2025-12-04 18:17:23,855 | INFO | Train E30: loss=3.2491  acc_s=0.8555  acc_f=0.4375
+2025-12-04 18:17:31,157 | INFO | Test  E30: acc_s=0.8870  acc_f=0.6101
+2025-12-04 18:17:31,459 | INFO | *** Best model updated: 0.6101 ***
+2025-12-04 18:20:41,713 | INFO | Train E31: loss=3.2414  acc_s=0.8534  acc_f=0.4359
+2025-12-04 18:20:49,006 | INFO | Test  E31: acc_s=0.8876  acc_f=0.6064
+2025-12-04 18:23:59,430 | INFO | Train E32: loss=3.2088  acc_s=0.8558  acc_f=0.4457
+2025-12-04 18:24:06,999 | INFO | Test  E32: acc_s=0.8839  acc_f=0.6185
+2025-12-04 18:24:07,300 | INFO | *** Best model updated: 0.6185 ***
+2025-12-04 18:27:17,586 | INFO | Train E33: loss=3.2465  acc_s=0.8538  acc_f=0.4383
+2025-12-04 18:27:24,894 | INFO | Test  E33: acc_s=0.8809  acc_f=0.6279
+2025-12-04 18:27:25,204 | INFO | *** Best model updated: 0.6279 ***
+2025-12-04 18:30:35,542 | INFO | Train E34: loss=3.1134  acc_s=0.8590  acc_f=0.4668
+2025-12-04 18:30:42,840 | INFO | Test  E34: acc_s=0.8969  acc_f=0.6533
+2025-12-04 18:30:43,143 | INFO | *** Best model updated: 0.6533 ***
+2025-12-04 18:33:53,350 | INFO | Train E35: loss=3.1327  acc_s=0.8575  acc_f=0.4602
+2025-12-04 18:34:00,703 | INFO | Test  E35: acc_s=0.8898  acc_f=0.6310
+2025-12-04 18:37:11,180 | INFO | Train E36: loss=3.0989  acc_s=0.8599  acc_f=0.4646
+2025-12-04 18:37:18,454 | INFO | Test  E36: acc_s=0.8869  acc_f=0.5949
+2025-12-04 18:40:28,940 | INFO | Train E37: loss=3.0933  acc_s=0.8587  acc_f=0.4672
+2025-12-04 18:40:36,236 | INFO | Test  E37: acc_s=0.8888  acc_f=0.6417
+2025-12-04 18:43:46,649 | INFO | Train E38: loss=3.0864  acc_s=0.8593  acc_f=0.4759
+2025-12-04 18:43:53,949 | INFO | Test  E38: acc_s=0.9033  acc_f=0.6647
+2025-12-04 18:43:54,266 | INFO | *** Best model updated: 0.6647 ***
+2025-12-04 18:47:04,548 | INFO | Train E39: loss=3.0314  acc_s=0.8626  acc_f=0.4814
+2025-12-04 18:47:11,832 | INFO | Test  E39: acc_s=0.8920  acc_f=0.6653
+2025-12-04 18:47:12,133 | INFO | *** Best model updated: 0.6653 ***
+2025-12-04 18:50:22,375 | INFO | Train E40: loss=3.0566  acc_s=0.8596  acc_f=0.4710
+2025-12-04 18:50:29,875 | INFO | Test  E40: acc_s=0.9001  acc_f=0.6540
+2025-12-04 18:53:40,300 | INFO | Train E41: loss=3.0085  acc_s=0.8633  acc_f=0.4866
+2025-12-04 18:53:47,602 | INFO | Test  E41: acc_s=0.9074  acc_f=0.6725
+2025-12-04 18:53:47,910 | INFO | *** Best model updated: 0.6725 ***
+2025-12-04 18:56:58,184 | INFO | Train E42: loss=3.0593  acc_s=0.8588  acc_f=0.4753
+2025-12-04 18:57:05,477 | INFO | Test  E42: acc_s=0.9058  acc_f=0.6843
+2025-12-04 18:57:05,791 | INFO | *** Best model updated: 0.6843 ***
+2025-12-04 19:00:16,015 | INFO | Train E43: loss=2.9711  acc_s=0.8642  acc_f=0.4905
+2025-12-04 19:00:23,340 | INFO | Test  E43: acc_s=0.8941  acc_f=0.6772
+2025-12-04 19:03:33,829 | INFO | Train E44: loss=2.9644  acc_s=0.8623  acc_f=0.4929
+2025-12-04 19:03:41,308 | INFO | Test  E44: acc_s=0.9041  acc_f=0.6609
+2025-12-04 19:06:51,719 | INFO | Train E45: loss=2.9208  acc_s=0.8652  acc_f=0.5001
+2025-12-04 19:06:59,046 | INFO | Test  E45: acc_s=0.8804  acc_f=0.6693
+2025-12-04 19:10:09,469 | INFO | Train E46: loss=2.9063  acc_s=0.8655  acc_f=0.5088
+2025-12-04 19:10:16,972 | INFO | Test  E46: acc_s=0.9058  acc_f=0.6723
+2025-12-04 19:13:27,343 | INFO | Train E47: loss=2.8682  acc_s=0.8688  acc_f=0.5118
+2025-12-04 19:13:34,639 | INFO | Test  E47: acc_s=0.9070  acc_f=0.6799
+2025-12-04 19:16:45,005 | INFO | Train E48: loss=2.9525  acc_s=0.8622  acc_f=0.4949
+2025-12-04 19:16:52,287 | INFO | Test  E48: acc_s=0.9033  acc_f=0.6955
+2025-12-04 19:16:52,596 | INFO | *** Best model updated: 0.6955 ***
+2025-12-04 19:20:02,863 | INFO | Train E49: loss=2.7851  acc_s=0.8730  acc_f=0.5300
+2025-12-04 19:20:10,345 | INFO | Test  E49: acc_s=0.9092  acc_f=0.7031
+2025-12-04 19:20:10,658 | INFO | *** Best model updated: 0.7031 ***
+2025-12-04 19:23:20,875 | INFO | Train E50: loss=2.8514  acc_s=0.8672  acc_f=0.5108
+2025-12-04 19:23:28,162 | INFO | Test  E50: acc_s=0.9082  acc_f=0.6961
+2025-12-04 19:26:38,518 | INFO | Train E51: loss=2.8126  acc_s=0.8675  acc_f=0.5186
+2025-12-04 19:26:46,007 | INFO | Test  E51: acc_s=0.9013  acc_f=0.6864
+2025-12-04 19:29:56,360 | INFO | Train E52: loss=2.7518  acc_s=0.8722  acc_f=0.5335
+2025-12-04 19:30:03,878 | INFO | Test  E52: acc_s=0.9112  acc_f=0.6975
+2025-12-04 19:33:14,323 | INFO | Train E53: loss=2.7364  acc_s=0.8729  acc_f=0.5330
+2025-12-04 19:33:21,817 | INFO | Test  E53: acc_s=0.9114  acc_f=0.7059
+2025-12-04 19:33:22,124 | INFO | *** Best model updated: 0.7059 ***
+2025-12-04 19:36:32,401 | INFO | Train E54: loss=2.7530  acc_s=0.8703  acc_f=0.5285
+2025-12-04 19:36:39,679 | INFO | Test  E54: acc_s=0.9128  acc_f=0.7199
+2025-12-04 19:36:39,981 | INFO | *** Best model updated: 0.7199 ***
+2025-12-04 19:39:50,280 | INFO | Train E55: loss=2.7608  acc_s=0.8686  acc_f=0.5212
+2025-12-04 19:39:57,776 | INFO | Test  E55: acc_s=0.9138  acc_f=0.7107
+2025-12-04 19:43:08,155 | INFO | Train E56: loss=2.7035  acc_s=0.8722  acc_f=0.5342
+2025-12-04 19:43:15,643 | INFO | Test  E56: acc_s=0.9149  acc_f=0.7248
+2025-12-04 19:43:15,945 | INFO | *** Best model updated: 0.7248 ***
+2025-12-04 19:46:26,197 | INFO | Train E57: loss=2.6985  acc_s=0.8706  acc_f=0.5360
+2025-12-04 19:46:33,518 | INFO | Test  E57: acc_s=0.9193  acc_f=0.7243
+2025-12-04 19:49:43,891 | INFO | Train E58: loss=2.6484  acc_s=0.8742  acc_f=0.5478
+2025-12-04 19:49:51,397 | INFO | Test  E58: acc_s=0.9244  acc_f=0.7379
+2025-12-04 19:49:51,698 | INFO | *** Best model updated: 0.7379 ***
+2025-12-04 19:53:01,935 | INFO | Train E59: loss=2.6156  acc_s=0.8772  acc_f=0.5518
+2025-12-04 19:53:09,260 | INFO | Test  E59: acc_s=0.9147  acc_f=0.7228
+2025-12-04 19:56:19,682 | INFO | Train E60: loss=2.6223  acc_s=0.8738  acc_f=0.5474
+2025-12-04 19:56:27,014 | INFO | Test  E60: acc_s=0.9260  acc_f=0.7396
+2025-12-04 19:56:27,324 | INFO | *** Best model updated: 0.7396 ***
+2025-12-04 19:59:37,604 | INFO | Train E61: loss=2.5463  acc_s=0.8783  acc_f=0.5612
+2025-12-04 19:59:45,087 | INFO | Test  E61: acc_s=0.9249  acc_f=0.7418
+2025-12-04 19:59:45,399 | INFO | *** Best model updated: 0.7418 ***
+2025-12-04 20:02:55,657 | INFO | Train E62: loss=2.6181  acc_s=0.8744  acc_f=0.5464
+2025-12-04 20:03:02,975 | INFO | Test  E62: acc_s=0.9205  acc_f=0.7427
+2025-12-04 20:03:03,287 | INFO | *** Best model updated: 0.7427 ***
+2025-12-04 20:06:13,619 | INFO | Train E63: loss=2.5504  acc_s=0.8768  acc_f=0.5617
+2025-12-04 20:06:20,946 | INFO | Test  E63: acc_s=0.9228  acc_f=0.7428
+2025-12-04 20:06:21,245 | INFO | *** Best model updated: 0.7428 ***
+2025-12-04 20:09:31,497 | INFO | Train E64: loss=2.4632  acc_s=0.8796  acc_f=0.5735
+2025-12-04 20:09:38,872 | INFO | Test  E64: acc_s=0.9217  acc_f=0.7334
+2025-12-04 20:12:49,250 | INFO | Train E65: loss=2.4126  acc_s=0.8856  acc_f=0.5868
+2025-12-04 20:12:56,615 | INFO | Test  E65: acc_s=0.9221  acc_f=0.7538
+2025-12-04 20:12:56,943 | INFO | *** Best model updated: 0.7538 ***
+2025-12-04 20:16:07,190 | INFO | Train E66: loss=2.4696  acc_s=0.8777  acc_f=0.5641
+2025-12-04 20:16:14,500 | INFO | Test  E66: acc_s=0.9312  acc_f=0.7594
+2025-12-04 20:16:14,805 | INFO | *** Best model updated: 0.7594 ***
+2025-12-04 20:19:25,026 | INFO | Train E67: loss=2.3885  acc_s=0.8843  acc_f=0.5890
+2025-12-04 20:19:32,413 | INFO | Test  E67: acc_s=0.9248  acc_f=0.7607
+2025-12-04 20:19:32,718 | INFO | *** Best model updated: 0.7607 ***
+2025-12-04 20:22:42,960 | INFO | Train E68: loss=2.3302  acc_s=0.8863  acc_f=0.5932
+2025-12-04 20:22:50,282 | INFO | Test  E68: acc_s=0.9285  acc_f=0.7634
+2025-12-04 20:22:50,598 | INFO | *** Best model updated: 0.7634 ***
+2025-12-04 20:26:00,814 | INFO | Train E69: loss=2.3545  acc_s=0.8824  acc_f=0.5851
+2025-12-04 20:26:08,313 | INFO | Test  E69: acc_s=0.9341  acc_f=0.7767
+2025-12-04 20:26:08,631 | INFO | *** Best model updated: 0.7767 ***
+2025-12-04 20:29:18,911 | INFO | Train E70: loss=2.3507  acc_s=0.8799  acc_f=0.5788
+2025-12-04 20:29:26,237 | INFO | Test  E70: acc_s=0.9325  acc_f=0.7786
+2025-12-04 20:29:26,547 | INFO | *** Best model updated: 0.7786 ***
+2025-12-04 20:32:36,784 | INFO | Train E71: loss=2.2802  acc_s=0.8853  acc_f=0.5983
+2025-12-04 20:32:44,138 | INFO | Test  E71: acc_s=0.9328  acc_f=0.7781
+2025-12-04 20:35:54,564 | INFO | Train E72: loss=2.2389  acc_s=0.8865  acc_f=0.5972
+2025-12-04 20:36:01,914 | INFO | Test  E72: acc_s=0.9304  acc_f=0.7826
+2025-12-04 20:36:02,223 | INFO | *** Best model updated: 0.7826 ***
+2025-12-04 20:39:12,407 | INFO | Train E73: loss=2.2738  acc_s=0.8828  acc_f=0.5906
+2025-12-04 20:39:19,903 | INFO | Test  E73: acc_s=0.9350  acc_f=0.7893
+2025-12-04 20:39:20,216 | INFO | *** Best model updated: 0.7893 ***
+2025-12-04 20:42:30,431 | INFO | Train E74: loss=2.1914  acc_s=0.8890  acc_f=0.6124
+2025-12-04 20:42:37,919 | INFO | Test  E74: acc_s=0.9283  acc_f=0.7767
+2025-12-04 20:45:48,114 | INFO | Train E75: loss=2.2077  acc_s=0.8859  acc_f=0.6031
+2025-12-04 20:45:55,604 | INFO | Test  E75: acc_s=0.9376  acc_f=0.7938
+2025-12-04 20:45:55,916 | INFO | *** Best model updated: 0.7938 ***
+2025-12-04 20:49:06,151 | INFO | Train E76: loss=2.0998  acc_s=0.8920  acc_f=0.6236
+2025-12-04 20:49:13,632 | INFO | Test  E76: acc_s=0.9372  acc_f=0.7949
+2025-12-04 20:49:13,936 | INFO | *** Best model updated: 0.7949 ***
+2025-12-04 20:52:23,997 | INFO | Train E77: loss=2.1389  acc_s=0.8872  acc_f=0.6084
+2025-12-04 20:52:31,323 | INFO | Test  E77: acc_s=0.9388  acc_f=0.7917
+2025-12-04 20:55:41,684 | INFO | Train E78: loss=2.1434  acc_s=0.8849  acc_f=0.6054
+2025-12-04 20:55:48,956 | INFO | Test  E78: acc_s=0.9401  acc_f=0.7985
+2025-12-04 20:55:49,261 | INFO | *** Best model updated: 0.7985 ***
+2025-12-04 20:58:59,492 | INFO | Train E79: loss=2.1033  acc_s=0.8849  acc_f=0.6047
+2025-12-04 20:59:06,839 | INFO | Test  E79: acc_s=0.9410  acc_f=0.8037
+2025-12-04 20:59:07,153 | INFO | *** Best model updated: 0.8037 ***
+2025-12-04 21:02:17,412 | INFO | Train E80: loss=2.0817  acc_s=0.8865  acc_f=0.6103
+2025-12-04 21:02:24,755 | INFO | Test  E80: acc_s=0.9384  acc_f=0.7990
+2025-12-04 21:05:35,157 | INFO | Train E81: loss=1.9905  acc_s=0.8945  acc_f=0.6354
+2025-12-04 21:05:42,506 | INFO | Test  E81: acc_s=0.9415  acc_f=0.8000
+2025-12-04 21:08:52,731 | INFO | Train E82: loss=1.9740  acc_s=0.8936  acc_f=0.6298
+2025-12-04 21:09:00,322 | INFO | Test  E82: acc_s=0.9406  acc_f=0.8083
+2025-12-04 21:09:00,644 | INFO | *** Best model updated: 0.8083 ***
+2025-12-04 21:12:10,863 | INFO | Train E83: loss=1.9297  acc_s=0.8933  acc_f=0.6313
+2025-12-04 21:12:18,216 | INFO | Test  E83: acc_s=0.9402  acc_f=0.8081
+2025-12-04 21:15:28,621 | INFO | Train E84: loss=1.9093  acc_s=0.8932  acc_f=0.6388
+2025-12-04 21:15:35,960 | INFO | Test  E84: acc_s=0.9420  acc_f=0.8177
+2025-12-04 21:15:36,263 | INFO | *** Best model updated: 0.8177 ***
+2025-12-04 21:18:46,485 | INFO | Train E85: loss=1.8558  acc_s=0.8947  acc_f=0.6424
+2025-12-04 21:18:53,849 | INFO | Test  E85: acc_s=0.9461  acc_f=0.8117
+2025-12-04 21:22:04,215 | INFO | Train E86: loss=1.8545  acc_s=0.8949  acc_f=0.6429
+2025-12-04 21:22:11,549 | INFO | Test  E86: acc_s=0.9445  acc_f=0.8210
+2025-12-04 21:22:11,864 | INFO | *** Best model updated: 0.8210 ***
+2025-12-04 21:25:21,952 | INFO | Train E87: loss=1.7673  acc_s=0.8988  acc_f=0.6581
+2025-12-04 21:25:29,523 | INFO | Test  E87: acc_s=0.9474  acc_f=0.8216
+2025-12-04 21:25:29,844 | INFO | *** Best model updated: 0.8216 ***
+2025-12-04 21:28:39,920 | INFO | Train E88: loss=1.7884  acc_s=0.8957  acc_f=0.6482
+2025-12-04 21:28:47,451 | INFO | Test  E88: acc_s=0.9464  acc_f=0.8238
+2025-12-04 21:28:47,757 | INFO | *** Best model updated: 0.8238 ***
+2025-12-04 21:31:57,868 | INFO | Train E89: loss=1.8077  acc_s=0.8928  acc_f=0.6381
+2025-12-04 21:32:05,230 | INFO | Test  E89: acc_s=0.9412  acc_f=0.8234
+2025-12-04 21:35:15,524 | INFO | Train E90: loss=1.7763  acc_s=0.8936  acc_f=0.6400
+2025-12-04 21:35:23,007 | INFO | Test  E90: acc_s=0.9468  acc_f=0.8311
+2025-12-04 21:35:23,322 | INFO | *** Best model updated: 0.8311 ***
+2025-12-04 21:38:33,475 | INFO | Train E91: loss=1.7356  acc_s=0.8960  acc_f=0.6506
+2025-12-04 21:38:40,881 | INFO | Test  E91: acc_s=0.9490  acc_f=0.8298
+2025-12-04 21:41:51,224 | INFO | Train E92: loss=1.7175  acc_s=0.8942  acc_f=0.6474
+2025-12-04 21:41:58,546 | INFO | Test  E92: acc_s=0.9486  acc_f=0.8331
+2025-12-04 21:41:58,858 | INFO | *** Best model updated: 0.8331 ***
+2025-12-04 21:45:09,089 | INFO | Train E93: loss=1.6634  acc_s=0.8973  acc_f=0.6565
+2025-12-04 21:45:16,627 | INFO | Test  E93: acc_s=0.9482  acc_f=0.8347
+2025-12-04 21:45:16,942 | INFO | *** Best model updated: 0.8347 ***
+2025-12-04 21:48:26,996 | INFO | Train E94: loss=1.6659  acc_s=0.8970  acc_f=0.6527
+2025-12-04 21:48:34,458 | INFO | Test  E94: acc_s=0.9499  acc_f=0.8365
+2025-12-04 21:48:34,771 | INFO | *** Best model updated: 0.8365 ***
+2025-12-04 21:51:44,833 | INFO | Train E95: loss=1.6307  acc_s=0.8996  acc_f=0.6645
+2025-12-04 21:51:52,175 | INFO | Test  E95: acc_s=0.9490  acc_f=0.8361
+2025-12-04 21:55:02,497 | INFO | Train E96: loss=1.6488  acc_s=0.8950  acc_f=0.6516
+2025-12-04 21:55:09,817 | INFO | Test  E96: acc_s=0.9481  acc_f=0.8395
+2025-12-04 21:55:10,135 | INFO | *** Best model updated: 0.8395 ***
+2025-12-04 21:58:20,341 | INFO | Train E97: loss=1.6143  acc_s=0.8958  acc_f=0.6543
+2025-12-04 21:58:27,710 | INFO | Test  E97: acc_s=0.9521  acc_f=0.8394
+2025-12-04 22:01:38,023 | INFO | Train E98: loss=1.6242  acc_s=0.8963  acc_f=0.6491
+2025-12-04 22:01:45,389 | INFO | Test  E98: acc_s=0.9505  acc_f=0.8409
+2025-12-04 22:01:45,700 | INFO | *** Best model updated: 0.8409 ***
+2025-12-04 22:04:55,808 | INFO | Train E99: loss=1.5689  acc_s=0.9018  acc_f=0.6688
+2025-12-04 22:05:03,139 | INFO | Test  E99: acc_s=0.9497  acc_f=0.8395
+2025-12-04 22:08:13,609 | INFO | Train E100: loss=1.6235  acc_s=0.8956  acc_f=0.6478
+2025-12-04 22:08:21,094 | INFO | Test  E100: acc_s=0.9521  acc_f=0.8403
+2025-12-04 22:08:21,251 | INFO | All done!

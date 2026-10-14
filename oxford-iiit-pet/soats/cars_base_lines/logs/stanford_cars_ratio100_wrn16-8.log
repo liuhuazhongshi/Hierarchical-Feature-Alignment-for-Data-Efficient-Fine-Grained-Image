@@ -1,0 +1,3 @@
+2026-03-10 17:21:37,161 | stanford_cars_ratio100_wrn16-8 | INFO | Starting experiment: stanford_cars_ratio100_wrn16-8
+2026-03-10 17:21:37,161 | stanford_cars_ratio100_wrn16-8 | INFO | Arguments: Namespace(epoch=300, batch=32, lr=0.001, wd=0.0005, drop=0.1, lambda_kl=0.2, lambda_orth=0.0005, warm=10, no_reg=False, save_dir='car_checkpoints', resume=None, num_workers=4, use_cutmix=True, depth=16, widen=8, use_coarse_branch=True, use_cross_attention=True, use_kl=False, use_dynamic_kl=True, kl_warm_epochs=20, kl_strategy='linear', kl_power=1.0, use_sam=False, attention_type='cross_branch', train_ratio=1.0, seed=42)
+2026-03-10 17:21:37,161 | stanford_cars_ratio100_wrn16-8 | INFO | Device: cuda

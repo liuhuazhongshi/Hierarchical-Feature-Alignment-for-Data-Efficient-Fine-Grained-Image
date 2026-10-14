@@ -1,0 +1,23 @@
+==================================================
+Stanford Cars Baseline Experiment
+Device: cuda
+Batch Size: 32
+Image Size: 128
+CutMix: True
+==================================================
+
+Loading Stanford Cars dataset...
+Please install torchvision>=0.13.0 or download manually:
+1. Download from: https://ai.stanford.edu/~jkrause/cars/car_dataset.html
+2. Extract to ./data/stanford_cars/
+Number of classes: 196
+Training samples: 8144
+Test samples: 8041
+
+========================================
+Model: Swin-T
+========================================
+
+>>> Train Ratio: 50%
+Total parameters: 27.67M
+Trainable parameters: 27.67M

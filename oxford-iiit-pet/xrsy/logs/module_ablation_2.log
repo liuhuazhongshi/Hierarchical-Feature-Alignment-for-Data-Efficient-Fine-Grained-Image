@@ -1,0 +1,4 @@
+2026-01-30 09:30:06,809 | module_ablation_2 | INFO | 设置随机种子: 42
+2026-01-30 09:30:06,814 | module_ablation_2 | INFO | Initializing TensorBoard with log dir: ckpt
+2026-01-30 09:30:06,815 | module_ablation_2 | INFO | Starting experiment: module_ablation_2
+2026-01-30 09:30:06,815 | module_ablation_2 | INFO | Arguments: Namespace(epoch=400, batch=32, lr=0.001, wd=0.0005, drop=0.1, lambda_kl=0.2, lambda_orth=0.0005, lambda_fine=2.0, warm=10, no_reg=False, save_dir='ckpt', resume=None, num_workers=6, use_cutmix=True, strong_aug=False, depth=40, widen=20, use_coarse_branch=True, use_cross_attention=False, use_kl=False, use_dynamic_kl=False, kl_warm_epochs=20, kl_strategy='linear', kl_power=1.0, use_sam=False, attention_type='cross_branch', image_size=112, grad_accum_steps=1, fp16=False)

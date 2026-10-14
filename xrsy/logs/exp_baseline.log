@@ -1,0 +1,4 @@
+2026-02-27 10:42:09,843 | exp_baseline | INFO | 设置随机种子: 42
+2026-02-27 10:42:09,849 | exp_baseline | INFO | Initializing TensorBoard with log dir: ckpt
+2026-02-27 10:42:09,850 | exp_baseline | INFO | Starting experiment: exp_baseline
+2026-02-27 10:42:09,850 | exp_baseline | INFO | Arguments: Namespace(epoch=300, batch=64, lr=0.001, wd=0.0005, drop=0.1, lambda_kl=0.2, lambda_orth=0.0005, warm=10, no_reg=False, save_dir='ckpt', resume=None, num_workers=6, use_cutmix=True, strong_aug=False, depth=16, widen=8, use_coarse_branch=True, use_cross_attention=True, use_kl=True, use_dynamic_kl=True, kl_warm_epochs=20, kl_strategy='linear', kl_power=1.0, use_sam=False, attention_type='cross_branch')

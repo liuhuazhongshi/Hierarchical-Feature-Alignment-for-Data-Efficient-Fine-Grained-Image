@@ -1,0 +1,12 @@
+
+============================
+Model: DenseNet121
+============================
+
+Train Ratio: 30%
+Epoch [1/300] Train Acc: 3.37% | Test Acc: 7.08% | LR: 0.000300
+Epoch [2/300] Train Acc: 5.38% | Test Acc: 10.07% | LR: 0.000300
+Epoch [3/300] Train Acc: 6.44% | Test Acc: 11.41% | LR: 0.000300
+Epoch [4/300] Train Acc: 8.19% | Test Acc: 15.24% | LR: 0.000300
+Epoch [5/300] Train Acc: 9.06% | Test Acc: 19.18% | LR: 0.000300
+Epoch [6/300] Train Acc: 10.30% | Test Acc: 18.52% | LR: 0.000300
